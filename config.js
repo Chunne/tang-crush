@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hí lu ình là ny cậu nè!',
+    introTitle: 'Hí lu mình là ny cậu nè!',
     introDesc: `Yêu tớ không`,
     btnIntro: 'hihi',
     title: 'Yêu cậu mất rùi 😙',
@@ -13,4 +13,3 @@ const CONFIG = {
     messDesc: 'Tớ iu cậu vailon.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
